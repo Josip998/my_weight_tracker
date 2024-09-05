@@ -1,0 +1,13 @@
+fastapi~=0.111.0
+uvicorn
+mysql-connector-python
+sqlalchemy~=2.0.30
+pydantic~=2.7.1
+passlib[bcrypt]~=1.7.4
+python-jose
+starlette~=0.37.2
+PyJWT
+redis
+fastapi-users[redis]
+confluent-kafka
+bcrypt
